@@ -72,10 +72,11 @@ body {
   width: 40px;
   height: 40px;
   border-radius: 50%;
+  margin-top: 100px;
 }
 
 .footer {
-  margin-top: 17em;
+  margin-top: 10em;
   border-top: 2px solid #000;
   padding-top: 20px;
   background-color: #fff;
